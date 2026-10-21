@@ -1,0 +1,19 @@
+PASS prg_lon22_eet_BTCUSD_H1        snapshots 1760/1760  clock EET reset London 22:00  events 8114
+PASS prg_lon22_eet_EURUSD_H1        snapshots 1557/1557  clock EET reset London 22:00  events 7486
+PASS prg_lon22_eet_GBPJPY_H1        snapshots 1557/1557  clock EET reset London 22:00  events 6581
+PASS prg_lon22_eet_XAUUSD_H1        snapshots 491/491  clock EET reset London 22:00  events 2085
+PASS prg_ny17_BTCUSD_H1             snapshots 3086/3086  clock NY reset NewYork 17:00  events 10121
+PASS prg_ny17_EURUSD_H1             snapshots 2180/2180  clock NY reset NewYork 17:00  events 5523
+PASS prg_ny17_GBPJPY_H1             snapshots 2180/2180  clock NY reset NewYork 17:00  events 6076
+PASS prg_ny17_XAUUSD_H1             snapshots 2062/2062  clock NY reset NewYork 17:00  events 2805
+PASS prg_prague_BTCUSD_H1           snapshots 521/521  clock NY reset Prague 00:00  events 2361
+PASS prg_prague_EURUSD_H1           snapshots 1557/1557  clock NY reset Prague 00:00  events 5910
+PASS prg_prague_GBPJPY_H1           snapshots 1557/1557  clock NY reset Prague 00:00  events 5717
+PASS prg_prague_XAUUSD_H1           snapshots 734/734  clock NY reset Prague 00:00  events 3411
+PASS prg_prague_ticks_EURUSD_H1     snapshots 688/688  clock NY reset Prague 00:00  events 3298
+PASS prg_server_BTCUSD_H1           snapshots 3312/3312  clock NY reset server 00:00  events 6488
+PASS prg_server_EURUSD_H1           snapshots 3633/3633  clock NY reset server 00:00  events 5306
+PASS prg_server_GBPJPY_H1           snapshots 3633/3633  clock NY reset server 00:00  events 7108
+PASS prg_server_XAUUSD_H1           snapshots 1588/1588  clock NY reset server 00:00  events 3047
+
+ALL PASS (17 runs, 32096 snapshots)

@@ -1,0 +1,11 @@
+NY  Prague   00:00  mismatches 0
+NY  UTC      00:00  mismatches 0
+NY  NewYork  17:00  mismatches 0
+NY  London   22:00  mismatches 0
+NY  Prague   23:00  mismatches 0
+EET Prague   00:00  mismatches 0
+EET UTC      00:00  mismatches 0
+EET NewYork  17:00  mismatches 0
+EET London   22:00  mismatches 0
+EET Prague   23:00  mismatches 0
+total 1227360 checks, 0 mismatches

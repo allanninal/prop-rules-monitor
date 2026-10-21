@@ -1,0 +1,4 @@
+prg_prague	InpSeed=1,InpSnapBars=7,InpMaxOpen=6,InpResetZone=1,InpResetHour=0,InpClock=0
+prg_ny17	InpSeed=2,InpSnapBars=5,InpMaxOpen=6,InpResetZone=3,InpResetHour=17,InpClock=0
+prg_lon22_eet	InpSeed=3,InpSnapBars=7,InpMaxOpen=8,InpResetZone=4,InpResetHour=22,InpClock=2
+prg_server	InpSeed=4,InpSnapBars=3,InpMaxOpen=4,InpResetZone=0,InpResetHour=0,InpClock=0
